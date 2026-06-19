@@ -2,7 +2,7 @@
 
 ## URL 
 
-[https://designtowebsite.github.io/Jewlery-store/](https://designtowebsite.github.io/Jewlery-store/)
+[https://ZinebEsso.github.io/Jewlery-store/](https://ZinebEsso.github.io/Jewlery-store/)
 
 ## Screen
 
